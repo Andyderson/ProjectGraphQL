@@ -1,0 +1,38 @@
+{
+  "users": [
+    {
+      "id": "40",
+      "first_name": "Bob",
+      "age": "40",
+      "companyId": "1"
+    },
+    {
+      "id": "69",
+      "first_name": "Blake",
+      "age": "60",
+      "companyId": "2"
+    },
+    {
+      "first_name": "Steph",
+      "age": 26,
+      "id": "S4wy5yf"
+    },
+    {
+      "first_name": "Shawn",
+      "age": 42,
+      "id": "XWKX~iH"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "Google",
+      "description": "search"
+    },
+    {
+      "id": "2",
+      "name": "FaceBook",
+      "description": "friends"
+    }
+  ]
+}
